@@ -1,1 +1,1 @@
-export { Button } from "./src/components/index";
+export { useModal } from "./src/hooks/useModal";
